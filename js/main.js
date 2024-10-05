@@ -65,6 +65,15 @@ console.log(newArr);
 const mapArr = myArray.map((value)=> value + 5);
 console.log(`${mapArr} - map`);
 
+
+/*На 12 балів:
+Попереднє завдання + 
+Переписати MyArray, використовуючи синтаксис класів.
+Додати до MyArray методи:
+- pop
+- додати метод reduce (можно використати рекурсію)
+ */
+
 /*Class version */
 
 class MyClassArray{
